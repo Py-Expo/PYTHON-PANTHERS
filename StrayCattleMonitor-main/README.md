@@ -1,0 +1,2 @@
+# StrayCattleMonitor
+This application is designed to facilitate the process of identifying cattle roaming the streets using OpenCV. It serves to alert traffic personnel promptly, enabling them to intervene and ensure the safety of travelers who might otherwise be at risk of accidents due to wandering cattle on the streets. This process is crucial for enhancing road safety and minimizing the likelihood of accidents caused by roaming cattle.
